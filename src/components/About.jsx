@@ -15,7 +15,7 @@ const About = () => {
           <div className="p-2">
             <div className="text-gray-300 my-3">
               <p className="text-justify leading-7 w-11/12 mx-auto">
-                I'm a 2024 post graduate. I am looking for an job. 
+                I'm a 2024 post graduate. 
                 I'm proficient in Java, JavaScript, React.js, and  SQL.
                 My coursework has 
                 equipped me with a strong foundation in data structures, algorithms, and software development.
